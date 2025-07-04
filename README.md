@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kleber Alencar</h1>
 <h3 align="center">A passionate backend and frontend developer from Brazil...</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KleberAlencar](https://github.com/KleberAlencar)](https://github.com/KleberAlencar?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/KleberAlencar?tab=repositories](https://github.com/KleberAlencar?tab=repositories)
 
 - 📫 How to reach me **kleber.alencar@outlook.com**
 
